@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+
+html {
+  font-family: sans-serif;
+  background-color: #4f005f;
+}
+
+body {
+  margin: 0;
+}
